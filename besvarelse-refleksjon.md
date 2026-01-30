@@ -10,7 +10,7 @@ Skriv dine svar på refleksjonsspørsmålene fra hver oppgave her.
 
 **Ditt svar:**
 
-[Skriv ditt svar her]
+Den største fordelen er at alt man gjør da er i et isolert miljø eller en container og vil ikke ha noe påvirkning på eller fra prosesser på resten av pcen.
 
 ---
 
