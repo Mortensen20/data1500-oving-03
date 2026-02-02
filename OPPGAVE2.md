@@ -130,6 +130,7 @@ FROM emneregistreringer er
 JOIN emner e ON er.emne_id = e.emne_id
 WHERE er.karakter IS NOT NULL
 GROUP BY e.emne_id, e.emne_navn;
+(Funker ikke, karakterer er lagret som bokstaver (A-F), programmet kan ikke caste bokstaver til INT)
 ```
 
 **3.3** Hent studenter som har flere enn 1 emneregistrering:
